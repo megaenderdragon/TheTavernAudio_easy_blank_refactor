@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f402f978-a019-4c11-827a-78f4ea53b90e}">
+		<property name="assetPath">
+			<value>player_wood_steps_3.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.73735416666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e06ad11d-1aee-4510-b492-5529b35d9a65}</destination>
+		</relationship>
+	</object>
+</objects>

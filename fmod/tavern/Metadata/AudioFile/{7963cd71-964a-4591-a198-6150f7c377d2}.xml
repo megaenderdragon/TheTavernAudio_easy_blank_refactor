@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{7963cd71-964a-4591-a198-6150f7c377d2}">
+		<property name="assetPath">
+			<value>player_stone_jump_up_4.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.2573125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e06ad11d-1aee-4510-b492-5529b35d9a65}</destination>
+		</relationship>
+	</object>
+</objects>
