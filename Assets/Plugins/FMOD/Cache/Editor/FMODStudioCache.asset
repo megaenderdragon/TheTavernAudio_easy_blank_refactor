@@ -189,6 +189,33 @@ MonoBehaviour:
   - stone
   - wood
   Exists: 1
+--- !u!114 &-3589463680994940475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Tavern
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: snapshot:/Tavern
+  Guid:
+    Data1: -2090890628
+    Data2: 1147359842
+    Data3: 2092199865
+    Data4: 984887
+  Banks:
+  - {fileID: 1509233724124508254}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &-3297333392949642958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -266,13 +293,14 @@ MonoBehaviour:
   - {fileID: -6512803035556770814}
   - {fileID: -5892960219306789210}
   - {fileID: -7375130851001014192}
+  - {fileID: -3589463680994940475}
   EditorParameters: []
   MasterBanks:
   - {fileID: 1509233724124508254}
   StringsBanks:
   - {fileID: 8216716786197362057}
   cacheVersion: 131859
-  cacheTime: 639138515966951257
+  cacheTime: 639171298262551321
   SerializableEventsDict:
   - key: event:/player/foot/steps
     index: 0
@@ -290,6 +318,8 @@ MonoBehaviour:
     index: 6
   - key: event:/ambients/amb_tavern_fireplace
     index: 7
+  - key: snapshot:/Tavern
+    index: 8
 --- !u!114 &1025637387034659432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -331,10 +361,10 @@ MonoBehaviour:
   Path: fmod/tavern/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639138515966932538
+  lastModified: 639171298262536267
   FileSizes:
   - Name: Desktop
-    Value: 8529344
+    Value: 8530976
   Exists: 1
 --- !u!114 &7560291669139259860
 MonoBehaviour:
@@ -379,10 +409,10 @@ MonoBehaviour:
   Path: fmod/tavern/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639138515966951257
+  lastModified: 639171298262551321
   FileSizes:
   - Name: Desktop
-    Value: 1222
+    Value: 1434
   Exists: 1
 --- !u!114 &8888979818887277624
 MonoBehaviour:
