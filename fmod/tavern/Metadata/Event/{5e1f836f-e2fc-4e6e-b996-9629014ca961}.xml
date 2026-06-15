@@ -53,7 +53,7 @@
 			<destination>{01c9ced6-31ea-4d68-b016-bb821da5be8b}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{2f08e3d9-bb2e-4c8b-9e50-1c00193a6e5f}</destination>
+			<destination>{e6a6bf5f-361b-48bf-97a7-ec5a1487ebb1}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{046863d7-9ef8-462c-95b8-06d735bdd1c9}" />
@@ -94,9 +94,6 @@
 	<object class="SingleSound" id="{1fef36ac-119c-44e6-aeb4-54ca257cc906}">
 		<property name="length">
 			<value>72</value>
-		</property>
-		<property name="startOffset">
-			<value>15</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -149,7 +146,7 @@
 			<value>startOffset</value>
 		</property>
 		<property name="amount">
-			<value>70</value>
+			<value>100</value>
 		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{f1a9f490-b209-4a3f-b1a7-dcb08ea9ab58}">
